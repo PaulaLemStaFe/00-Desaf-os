@@ -24,7 +24,7 @@ alert("¡Error! Completa todos los campos");
 
 // 7. a. Declara una variable llamada mensajeDeError y asígnale el valor "¡Error! Completa todos los campos". 
 let mensajeDeError = "¡Error! Completa Todos los campos";
-// 7. b. Ahora muestra una alerta con el valor de la variable mensajeDeError .
+// 7. b. Ahora muestra una alerta con el valor de la variable mensajeDeError.
 alert(mensajeDeError);
 
 // 10. Ahora, si la edad es mayor o igual a 18, muestra una alerta con el mensaje "¡Puedes obtener tu licencia de conducir!".
